@@ -17,6 +17,4 @@ Hobbies.Software: ......................... Open Source, Game Modding
 Email: .................................... riccardo.mascotto2003@gmail.com
 LinkedIn: ................................. linkedin.com/in/riccardo-mascotto-5b88b4351
 Discord: .................................. Rick_doMasco
-
----------------------------------------------------------------------------------------
 ```
