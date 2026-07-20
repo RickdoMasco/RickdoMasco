@@ -9,7 +9,7 @@ IDE: ...................................... VSCode, IntelliJ IDEA
 Languages.Programming: .................... Java, C++, JavaScript
 Frameworks & Libs: ........................ React, Spring Boot
 Languages.Computer: ....................... SQL
-Languages.Real: ........................... Italiano, English
+Languages.Real: ........................... Italian, English
 
 Hobbies.Software: ......................... Open Source, Game Modding
 
