@@ -3,8 +3,8 @@ RickdoMasco@github -------------------------------------------------------------
 OS: ....................................... Windows 11, Ubuntu Linux
 Uptime: ................................... 23 years
 Host: ..................................... IT Student
-Role: ..................................... Junior Full Stack Developer
-IDE: ...................................... VSCode, IntelliJ IDEA
+Role: ..................................... Internship - Backend Developer
+IDE: ...................................... VSCode
 
 Languages.Programming: .................... Java, C++, JavaScript
 Frameworks & Libs: ........................ React, Spring Boot
